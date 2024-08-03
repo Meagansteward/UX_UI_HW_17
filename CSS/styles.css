@@ -1,0 +1,54 @@
+/* navigation styles */
+body {
+    background-color: #31322E;
+}
+.inline-block {
+    display: inline-block; /* not working? */
+    vertical-align: top;
+    color: white;
+    font-family: open sans;
+
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+.nav {
+    width: 50%;
+    margin-left:auto;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25%;
+    color: #e9d8da;
+    font-family: pattaya;
+    text-align: center;
+    text-size-adjust: 500px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+footer {
+    background-color: #373738;
+    color: white;
+
+    ul {
+        display: inline-block;
+        vertical-align: top;
+    }
+    padding: 25%;
+
+}
